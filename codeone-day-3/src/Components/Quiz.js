@@ -66,7 +66,7 @@ const Quiz = () => {
       ):
       (
         <>
-          <div className='w-full relative'>
+          <div className='w-full'>
             <div className='mt-4'>
               <span className='text-4xl'>Question {currentQuestion + 1}/{question.length}</span>
             </div>
